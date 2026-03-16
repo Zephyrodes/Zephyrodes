@@ -13,22 +13,20 @@
 
 ## 🧭 About Me
 
-```yaml
-name: Miguel Angel
-alias: Zephyrodes
-role: CS & Engineering Student → DevOps/SRE Track
-focus:
-  - Infrastructure as Code & Platform Engineering
-  - Cloud-native architectures and container orchestration
-  - Observability, reliability, and incident response
-  - Automating everything that can (and should) be automated
-currently_learning:
-  - eBPF for deep kernel observability
-  - GitOps patterns with ArgoCD & Flux
-  - OpenTelemetry for distributed tracing
-  - WebAssembly on the edge
-mindset: "If it's not reproducible, it's not production-ready."
-```
+I'm **Miguel Angel**, a Computer Science & Engineering student from **Colombia 🇨🇴**, building my path toward a career in **DevOps and Site Reliability Engineering**.
+
+My drive comes from a simple but powerful idea: **if a machine can do it, a human shouldn't have to.** I'm passionate about designing infrastructure that is reproducible, observable, and resilient — systems that work the same way every single time, at any scale.
+
+I spend most of my time thinking about how to bridge the gap between development and operations: writing pipelines that just work, provisioning environments through code, and making sure that when something breaks, it breaks loudly and gets fixed fast.
+
+Right now I'm deepening my knowledge in:
+
+- 🔭 **Observability** — tracing, metrics, and logs as first-class citizens (OpenTelemetry, Prometheus, Grafana)
+- 🌊 **GitOps** — infrastructure that lives in Git and deploys itself (ArgoCD, FluxCD)
+- ⚡ **eBPF** — kernel-level visibility without touching application code
+- 🌐 **Platform Engineering** — building internal developer platforms that teams actually want to use
+
+I believe the best infrastructure is the kind nobody notices — because it never goes down.
 
 ---
 
@@ -83,8 +81,8 @@ mindset: "If it's not reproducible, it's not production-ready."
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🚧 *Coming soon* | *(Add your project here)* | — |
-| 🚧 *Coming soon* | *(Add your project here)* | — |
+| 🚧 *Coming soon* | - | — |
+| 🚧 *Coming soon* | - | — |
 
 ---
 
@@ -99,14 +97,9 @@ mindset: "If it's not reproducible, it's not production-ready."
 
 ---
 
-## 📡 Reliability Principles I Live By
+## 💬 Closing Thought
 
-> *"Design for failure. Automate remediation. Measure everything."*
-
-- 📐 **Infrastructure should be code** — version-controlled, reviewed, and tested
-- 🔁 **Every manual task is a future incident waiting to happen**
-- 📈 **SLOs before features** — reliability is a product requirement
-- 🔍 **Observability is not optional** — if you can't measure it, you can't improve it
+> *"The best infrastructure is the kind nobody notices — because it never goes down."*
 
 ---
 
