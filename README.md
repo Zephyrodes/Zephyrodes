@@ -16,7 +16,6 @@
 💻 CS & Engineering student focused on DevOps and SRE  
 ☁️ Building and automating cloud infrastructure  
 🌱 Learning Kubernetes, Terraform, and observability tools  
-📍 Colombia 🇨🇴
 
 ---
 
@@ -86,8 +85,6 @@
 </div>
 
 ---
-
-## 💬 Closing Thought
 
 > *"The best infrastructure is the kind nobody notices — because it never goes down."*
 
