@@ -97,8 +97,6 @@ I believe the best infrastructure is the kind nobody notices — because it neve
 
 ---
 
-## 💬 Closing Thought
-
 > *"The best infrastructure is the kind nobody notices — because it never goes down."*
 
 ---
@@ -106,6 +104,6 @@ I believe the best infrastructure is the kind nobody notices — because it neve
 <div align="center">
 
 *Open to collaborations, internships, and interesting infrastructure challenges.*
-**Let's build systems that don't page you at 3am.** 🌙
+**Let's build systems that don't page you at 3am and ruin your dawning.** 🌙
 
 </div>
