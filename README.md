@@ -13,20 +13,10 @@
 
 ## 🧭 About Me
 
-I'm **Miguel Angel**, a Computer Science & Engineering student from **Colombia 🇨🇴**, building my path toward a career in **DevOps and Site Reliability Engineering**.
-
-My drive comes from a simple but powerful idea: **if a machine can do it, a human shouldn't have to.** I'm passionate about designing infrastructure that is reproducible, observable, and resilient — systems that work the same way every single time, at any scale.
-
-I spend most of my time thinking about how to bridge the gap between development and operations: writing pipelines that just work, provisioning environments through code, and making sure that when something breaks, it breaks loudly and gets fixed fast.
-
-Right now I'm deepening my knowledge in:
-
-- 🔭 **Observability** — tracing, metrics, and logs as first-class citizens (OpenTelemetry, Prometheus, Grafana)
-- 🌊 **GitOps** — infrastructure that lives in Git and deploys itself (ArgoCD, FluxCD)
-- ⚡ **eBPF** — kernel-level visibility without touching application code
-- 🌐 **Platform Engineering** — building internal developer platforms that teams actually want to use
-
-I believe the best infrastructure is the kind nobody notices — because it never goes down.
+💻 CS & Engineering student focused on DevOps and SRE  
+☁️ Building and automating cloud infrastructure  
+🌱 Learning Kubernetes, Terraform, and observability tools  
+📍 Colombia 🇨🇴
 
 ---
 
@@ -81,8 +71,8 @@ I believe the best infrastructure is the kind nobody notices — because it neve
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🚧 *Coming soon* | - | — |
-| 🚧 *Coming soon* | - | — |
+| 🚧 *Coming soon* | — | — |
+| 🚧 *Coming soon* | — | — |
 
 ---
 
@@ -97,6 +87,8 @@ I believe the best infrastructure is the kind nobody notices — because it neve
 
 ---
 
+## 💬 Closing Thought
+
 > *"The best infrastructure is the kind nobody notices — because it never goes down."*
 
 ---
@@ -104,6 +96,6 @@ I believe the best infrastructure is the kind nobody notices — because it neve
 <div align="center">
 
 *Open to collaborations, internships, and interesting infrastructure challenges.*
-**Let's build systems that don't page you at 3am and ruin your dawning.** 🌙
+**Let's build systems that don't page you at 3am in the dawning.** 🌙
 
 </div>
