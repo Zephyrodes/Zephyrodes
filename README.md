@@ -50,6 +50,11 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### 🤖 MLOps
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
@@ -61,8 +66,8 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🚧 *Coming soon* | placeholder* | — |
-| 🚧 *Coming soon* | placeholder* | — |
+| 🎬 [CineFind](https://github.com/Zephyrodes/cineFind-devops) | Movie discovery app with full DevOps deployment. IaC with Terraform on Azure, configuration management with Ansible, and Nginx as web server. | Terraform, Ansible, Azure, Nginx, React, TypeScript |
+| ⚙️ [EKS SRE Platform](https://github.com/Zephyrodes/infra-microservicios) | Production-style microservices platform on Amazon EKS with full observability, CI/CD pipeline via Jenkins, horizontal autoscaling, and SRE chaos drills. | Kubernetes, AWS, Jenkins, Prometheus, Grafana, Docker, Node.js |
 
 ---
 
