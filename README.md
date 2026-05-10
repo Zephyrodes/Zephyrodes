@@ -30,20 +30,25 @@
 ### 🏗️ Infrastructure as Code
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white)
 
-### ⚙️ CI/CD
+### ⚙️ CI/CD & Orchestration
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 
-### ☁️ Cloud Platforms
+### ☁️ Cloud & Storage
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
 
 ### 📡 Observability & Monitoring
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
-### 🔐 Networking
+### 🔐 Security & Networking
+![Vault](https://img.shields.io/badge/HashiCorp_Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ### 💻 Languages & Scripting
@@ -52,13 +57,13 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### 🌐 Frontend
+### 🌐 Web & API
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 🤖 MLOps
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+### 🧮 Data & ML Libraries
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ---
 
@@ -68,6 +73,7 @@
 |--------|-------------|-------|
 | 🎬 [CineFind](https://github.com/Zephyrodes/cineFind-devops) | Movie discovery app with full DevOps deployment. IaC with Terraform on Azure, configuration management with Ansible, and Nginx as web server. | Terraform, Ansible, Azure, Nginx, React, TypeScript |
 | ⚙️ [EKS SRE Platform](https://github.com/Zephyrodes/infra-microservicios) | Production-style microservices platform on Amazon EKS with full observability, CI/CD pipeline via Jenkins, horizontal autoscaling, and SRE chaos drills. | Kubernetes, AWS, Jenkins, Prometheus, Grafana, Docker, Node.js |
+| 🧠 [Churn ML Pipeline](https://github.com/Zephyrodes/Pipeline-Machine-Learning-sobre-Churn) | End-to-end MLOps pipeline for customer churn prediction on a bare-metal Linux VM. Orchestrated with Airflow, experiment tracking with MLflow, data versioning with DVC, secret management with Vault, and REST inference via FastAPI. | Airflow, MLflow, DVC, FastAPI, Vault, MinIO, scikit-learn, Python |
 
 ---
 
